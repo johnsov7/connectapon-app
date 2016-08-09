@@ -117,3 +117,12 @@ text-shadow: -1px 0 #555, 0 1px #555, 1px 0 #555, 0 -1px #555;
 .no-right-padding {
   padding-right: 0 !important;
 }
+
+.table tr td {
+  a.main-link {
+    color: #428bca;
+  }
+  a.main-link:hover {
+    background: none;
+  }
+}
